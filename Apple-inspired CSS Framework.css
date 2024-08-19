@@ -10,7 +10,17 @@
  * 4. Layout
  * 5. Grid System
  * 6. Buttons
+ * 7. Cards
+ * 8. Navigation
+ * 9. Forms
+ * 10. Utility Classes
+ * 11. Animations
+ * 12. Advanced Features
+ * 13. Dark Mode
+ * 14. Responsive Design
+ * 15. Accessibility
  */
+
 
 /* 1. CSS Variables (Custom Properties) */
 :root {
@@ -268,22 +278,6 @@ p {
   background-color: #4a47c9;
   border-color: #4440bd;
 }
-/* SimpliStyle CSS Framework v1.0.0 (Continued)
- * https://github.com/yourusername/SimpliStyle
- * Licensed under MIT (https://github.com/yourusername/SimpliStyle/blob/main/LICENSE)
- */
-
-/* Table of Contents:
- * 7. Cards
- * 8. Navigation
- * 9. Forms
- * 10. Utility Classes
- * 11. Animations
- * 12. Advanced Features
- * 13. Dark Mode
- * 14. Responsive Design
- * 15. Accessibility
- */
 
 /* 7. Cards */
 .ss-card {
