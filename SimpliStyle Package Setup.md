@@ -291,9 +291,6 @@ p {
   background-color: #4a47c9;
   border-color: #
 
-```css
-/* Continuation of src/simplistyle.css */
-
 /* 7. Cards */
 .ss-card {
   position: relative;
